@@ -1,0 +1,27 @@
+## License - Custom License for WAT
+
+### 1. **Prohibited Modifications to the Original Program**
+You may not modify, alter, or distribute the original `wat.exe` file or its associated core code. This restriction is for security reasons, as any modification could compromise the safety and integrity of the software.
+
+### 2. **Creation and Distribution of Mods/Extensions**
+You are permitted to create **mods**, **plugins**, or **extensions** that enhance the functionality of the program, **as long as** the original `wat.exe` file is not modified in any way. These mods or extensions must be distributed separately from the original program.
+
+- Mods or extensions created **must not** alter or interfere with the core functionality of `wat.exe`.
+- Mods or extensions **can** be shared, redistributed, and modified, as long as they do not contain alterations to the original executable file.
+
+### 3. **Redistribution**
+You may **redistribute the original `wat.exe` file** only in its **unmodified** form. Any redistribution of the original program must retain the unaltered state of the file. If you are distributing mods or extensions, those must be distributed separately and clearly identified as modifications or additions to the original program.
+
+### 4. **Use of the Software**
+This software is provided "as is", without any warranty of any kind. The creator is not responsible for any damage or issues caused by the usage of this software. Use it at your own risk.
+
+### 5. **Compliance**
+By using or distributing this software, you agree to comply with the terms stated in this license. Any violation of these terms may result in revocation of the license to use or distribute the software.
+
+### Summary:
+- **You cannot** modify the core `wat.exe` program for any purpose.
+- **You can** create mods and extensions, and modify them freely, but they **must be distributed separately** from the core program.
+- **You can** distribute the original program, but it **must remain unmodified**.
+- **You can** distribute mods and extensions that work with `wat.exe`.
+
+This license is designed to preserve the security and integrity of the original program while encouraging the development of compatible modifications.
