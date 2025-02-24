@@ -17,11 +17,11 @@
 
 1. Download the `wat.exe` file.
 2. Add the folder containing `wat.exe` to your system's PATH environment variable.
-3. Open the Command Prompt (CMD) and use the following command to start:
+3. Open the Command Prompt (CMD) or WAT Terminal and use the following command to start:
 
 ## Usage
 
 To run the program, open the Windows terminal (CMD) and use the following command:
 
 ```bash
-wat <function_name>
+wat [cmd function]
