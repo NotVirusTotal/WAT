@@ -21,7 +21,7 @@
 
 ## Usage
 
-To run the program, open the Windows terminal (CMD) and use the following command:
+To run the program, open the Windows terminal (CMD) or WAT Terminal and use the following command:
 
 ```bash
-wat [cmd function]
+wat (modify this to the CMD command you want)
