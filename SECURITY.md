@@ -10,7 +10,7 @@ If you discover a security vulnerability, please **do not** disclose it publicly
 
 The only supported version of this repository is:
 
-- **Version 1.0** (currently the only active version)
+- **Version 1.0** 
 
 No other versions are provided or supported.
 
