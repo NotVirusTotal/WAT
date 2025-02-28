@@ -29,7 +29,7 @@
 
 1. Once the ZIP file is downloaded, extract its contents to a folder of your choice.
 
-2. Inside the extracted folder, look for the **`wat.exe`** (or the corresponding executable) and double-click to start the installer.
+2. Inside the extracted folder, look for the **`WAT Installer.exe`** (or the corresponding executable) and double-click to start the installer.
 
 3. Follow the on-screen instructions to complete the installation.
 
