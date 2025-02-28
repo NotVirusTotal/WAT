@@ -8,4 +8,4 @@ Make sure you have the latest version of **WAT** installed. If the issue persist
 ## Issue: Getting a "Command not found" error
 
 **Solution**:  
-Ensure that the executable is located in the correct directory or that your environment variables are configured correctly.
+Ensure that the executable is located in the correct directory or that your environment variables are configured correctly or run another command.
