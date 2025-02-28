@@ -1,5 +1,7 @@
 # WAT - Windows Advanced Tools
 
+![WAT ICON](https://drive.google.com/uc?export=view&id=1oXCzdq6XUgyCnG9VrU184AYOV_h744ej)
+
 **WAT (Windows Advanced Tools)** is an advanced tool for performing various tasks on Windows systems via the command line with a graphical interface for additional configurations.
 
 ## Features
@@ -37,6 +39,3 @@ To run the program, open the Windows terminal (CMD) or WAT Terminal and use the 
 
 ```bash
 wat.exe [the cmd command you want to run]
-```
-
-![OiiaOiiaoiiaGIF (2)](https://github.com/user-attachments/assets/3c4d529a-1309-4e90-b2c1-c38b940917f1)
