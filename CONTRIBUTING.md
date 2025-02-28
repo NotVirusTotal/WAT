@@ -15,6 +15,6 @@ We expect all contributors to follow this simple code of conduct:
 - Be respectful and considerate to others.
 - Avoid using offensive, inappropriate, or disrespectful language.
 
-By contributing, you agree to adhere to these ruñes and help create a positive atmosphere for all. ![OiiaOiiaoiiaGIF](https://github.com/user-attachments/assets/b9225cf1-837d-4a2f-b2e9-b308e30e47b1)
+By contributing, you agree to adhere to these ruñes and help create a positive atmosphere for all.
 
 
